@@ -1,0 +1,197 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "s_Angram",
+            "request": "launch",
+            "mainClass": "s_Angram",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "r_Longest_Uncommon_Sequence",
+            "request": "launch",
+            "mainClass": "r_Longest_Uncommon_Sequence",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "q_Valid_Palindrome_II",
+            "request": "launch",
+            "mainClass": "q_Valid_Palindrome_II",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "p_Reverse_String_II",
+            "request": "launch",
+            "mainClass": "p_Reverse_String_II",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "o_Longest_Repeating_Character_Replacement",
+            "request": "launch",
+            "mainClass": "o_Longest_Repeating_Character_Replacement",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "n_Minimum_Length_of_String_After_Deleting_Similar_Ends",
+            "request": "launch",
+            "mainClass": "n_Minimum_Length_of_String_After_Deleting_Similar_Ends",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "m_Length_of_Last_word",
+            "request": "launch",
+            "mainClass": "m_Length_of_Last_word",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "l_Replace_every_uppercase_letter_with_same_lowercase_latter",
+            "request": "launch",
+            "mainClass": "l_Replace_every_uppercase_letter_with_same_lowercase_latter",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "k_Number_of_valid_words_in_a_sentence",
+            "request": "launch",
+            "mainClass": "k_Number_of_valid_words_in_a_sentence",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "j_GCD_of_two_String",
+            "request": "launch",
+            "mainClass": "j_GCD_of_two_String",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "i_String_Compression",
+            "request": "launch",
+            "mainClass": "i_String_Compression",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "h_Apply_Discount_to_prices",
+            "request": "launch",
+            "mainClass": "h_Apply_Discount_to_prices",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "g_Student_Attendance_Record_I",
+            "request": "launch",
+            "mainClass": "g_Student_Attendance_Record_I",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "f_Multiply_String",
+            "request": "launch",
+            "mainClass": "f_Multiply_String",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "e_Add_binary",
+            "request": "launch",
+            "mainClass": "e_Add_binary",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "d_Reverse_a_string",
+            "request": "launch",
+            "mainClass": "d_Reverse_a_string",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "c_Capitalize_the_first_letter_of_each_word",
+            "request": "launch",
+            "mainClass": "c_Capitalize_the_first_letter_of_each_word",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "b_Swap_first_and_last_character_of_each_word_in_a_string",
+            "request": "launch",
+            "mainClass": "b_Swap_first_and_last_character_of_each_word_in_a_string",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "CQ",
+            "request": "launch",
+            "mainClass": "CQ",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "name": "C/C++: g++-13 build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++-13 build active file",
+            "miDebuggerPath": "/usr/bin/gdb"
+        },
+        {
+            "name": "C/C++: g++ build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++ build active file",
+            "miDebuggerPath": "/usr/bin/gdb"
+        }
+    ],
+    "version": "2.0.0"
+}
