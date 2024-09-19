@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "w_Can_You_Read_This",
+            "request": "launch",
+            "mainClass": "w_Can_You_Read_This",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "v_Valid_index_of_array",
+            "request": "launch",
+            "mainClass": "v_Valid_index_of_array",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "u_Valid_email_address",
+            "request": "launch",
+            "mainClass": "u_Valid_email_address",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
+            "name": "t_Password_too_short_Exception",
+            "request": "launch",
+            "mainClass": "t_Password_too_short_Exception",
+            "projectName": "CodingProblems_cfcdf301"
+        },
+        {
+            "type": "java",
             "name": "s_Angram",
             "request": "launch",
             "mainClass": "s_Angram",

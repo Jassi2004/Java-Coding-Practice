@@ -25,7 +25,7 @@ class Main
     }
     public static void main(String[] args)
     {
-        String str = "t Password too short Exception";
+        String str = "x Finding CB Numbers";
         String s = giveName(str);
         System.out.println(s);
 
